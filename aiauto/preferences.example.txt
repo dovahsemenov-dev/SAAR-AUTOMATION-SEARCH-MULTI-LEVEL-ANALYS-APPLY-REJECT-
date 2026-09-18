@@ -1,2 +1,0 @@
-# PREFERENCES EXAMPLE
-# Replace this file with your own local vacancy preferences.
