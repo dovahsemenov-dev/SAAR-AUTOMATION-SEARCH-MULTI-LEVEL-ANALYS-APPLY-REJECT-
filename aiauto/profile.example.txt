@@ -1,0 +1,3 @@
+# PROFILE EXAMPLE
+# Replace this file with your own local profile data.
+# Do not commit personal information, resume IDs, private URLs, or credentials.
