@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "rules": {
+    "unknown_means": "unknown",
+    "commercial_experience_must_not_be_inferred": true,
+    "educational_experience_must_not_be_presented_as_commercial": true,
+    "familiarity_must_not_be_presented_as_professional_mastery": true
+  }
+}
